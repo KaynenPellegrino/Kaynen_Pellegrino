@@ -40,6 +40,6 @@ Thank you for looking at my works so far! Unfortunately, I am not able to put th
 
 ### Works In Progress
 These are personal projects I am working on currently, any code shown are samples, and are the intellectual property of Kaynen Pellegrino and Sybertnetics.
--Valkyrie, an autonomous AI concept to revolutionize Artificial Intelligence, currently pending NSF grant approval. This project was inspired by the Fans Robot project.
--Deterrent, a horror survival game featuring a female lead pitting the main character against unknown monsters.
--Sweet Justice, a platform game featuring a ninja muffin taking a battle against tyrannical cupcakes around the world.
+- Valkyrie, an autonomous AI concept to revolutionize Artificial Intelligence, currently pending NSF grant approval. This project was inspired by the Fans Robot project.
+- Deterrent, a horror survival game featuring a female lead pitting the main character against unknown monsters.
+- Sweet Justice, a platform game featuring a ninja muffin taking a battle against tyrannical cupcakes around the world.
