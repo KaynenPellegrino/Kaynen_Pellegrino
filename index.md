@@ -1,12 +1,16 @@
 # Kaynen Pellegrino
-<!-- If you're reading this, obviously you're looking at the source code to see if I wrote this out in HTML. Well, I did originally, but why not use a simpler format where I can? However, if you look at the My Complete Projects tab, you will be able to see my mock website, entirely in HTML. Thank you for reading! -->
+<!-- If you're reading this, obviously you're looking at the source code to see if I wrote this out in HTML. 
+Well, I did originally, but why not use a simpler format where I can? However, if you look at the My Complete 
+Projects tab, you will be able to see my mock website, entirely in HTML. Thank you for reading! -->
 ## Who Am I?
 
 ### No, Seriously. Who Am I?
 
-I am a single father, an avid adventurer, an entrepeneur, and an innovative spirit. I conceptualize my own inventions, all of which are some form of next generation technology.
+I am a single father, an avid adventurer, an entrepeneur, and an innovative spirit. 
+I conceptualize my own inventions, all of which are some form of next generation technology.
 Currently, I am completing my Bachelors in Artificial Intelligence, graduating in April 2022, and all while parenting, working, and developing my own Artificial Intelligence. 
-I have been described as a hardworker with a passion for learning and a drive to succeed. I have always put my all into everything I have done, and I do my best to learn all that I can so I can excel and improve in my roles. On top of learning everything, I pick up on traits and skills fairly quickly, much more so than other coworkers, often completing my training days, if not a week or so, earlier than others, and still excelling in my roles.
+I have been described as a hardworker with a passion for learning and a drive to succeed. I have always put my all into everything I have done, and I do my best to learn all that I can so I can excel and improve in my roles. 
+On top of learning everything, I pick up on traits and skills fairly quickly, much more so than other coworkers, often completing my training days, if not a week or so, earlier than others, and still excelling in my roles.
 
 ### Reasoning For Artificial Intelligence
 
