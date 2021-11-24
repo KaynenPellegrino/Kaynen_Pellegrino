@@ -43,3 +43,8 @@ These are personal projects I am working on currently, any code shown are sample
 - Valkyrie, an autonomous AI concept to revolutionize Artificial Intelligence, currently pending NSF grant approval. This project was inspired by the Fans Robot project.
 - Deterrent, a horror survival game featuring a female lead pitting the main character against unknown monsters.
 - Sweet Justice, a platform game featuring a ninja muffin taking a battle against tyrannical cupcakes around the world.
+
+## Contact
+If you are interested in reaching me for professional purposes or personal projects, as well as inquiries on my projects or other inquiries, you can reach me at:
+<br>Email: KaynenBPellegrino@gmail.com
+<br>https://www.linkedin.com/in/KaynenPellegrino
