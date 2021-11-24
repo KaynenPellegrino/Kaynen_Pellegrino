@@ -32,12 +32,13 @@ I can offer a strong candidate with a great work ethic whom is capable of mainta
 ### My Works
 
 Thank you for looking at my works so far! Unfortunately, I am not able to put the code directly here. 
-However, if you can follow this link to my [https://www.github.com/kaynenpellegrino] Github, you can see it all there!
-Otherwise, here are direct links to the following projects I completed through school or personally.
-<br>[https://github.com/KaynenPellegrino/FarkleGame] Farkle
-<br>[https://github.com/KaynenPellegrino/Gracioso-Rescue-Pet] Pet Rescue
-<br>[https://github.com/KaynenPellegrino/Luxury-Cruise-Line] Cruise Line
-<br>[https://github.com/KaynenPellegrino/Python-projects-From-School] Python Projects
-<br>[https://github.com/KaynenPellegrino/Fans] FANS Robot
-<br>[https://github.com/KaynenPellegrino/Mock-Photography-Website] Mock Website
-<br>Finally, here is a downloadable copy of my<a href="/Kaynen Pellegrino.docx" download> resume.</a>
+<br>However, if you can follow this link to my <a href="https://www.github.com/kaynenpellegrino">Github</a>, you can see it all there!
+<br>Otherwise, here are direct links to the following projects I completed through school or personally.
+<br><a href="https://github.com/KaynenPellegrino/FarkleGame">Farkle</a>
+<br><a href="https://github.com/KaynenPellegrino/Gracioso-Rescue-Pet">Pet Rescue</a>
+<br><a href="https://github.com/KaynenPellegrino/Luxury-Cruise-Line">Cruise Line</a>
+<br><a href="https://github.com/KaynenPellegrino/Python-projects-From-School">Python Projects</a>
+<br><a href="https://github.com/KaynenPellegrino/Fans">FANS Robot</a>
+<br><a href="https://github.com/KaynenPellegrino/Mock-Photography-Website">Mock Website</a>
+<br>Finally, here is a downloadable copy of my<a href="/Kaynen Pellegrino.docx" download>resume.</a>
+<br>Thank you for taking the time to look over my website. If you haven't, you should absolutely try the Game!
