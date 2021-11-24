@@ -5,10 +5,8 @@
 ### No, Seriously. Who Am I?
 
 I am a single father, an avid adventurer, an entrepeneur, and an innovative spirit. I conceptualize my own inventions, all of which are some form of next generation technology.
-<br>I am working to complete a degree in Artificial Intelligence, with only a few credits remaining, and all while parenting, working, and developing my own Artificial Intelligence. 
-<br>I am a hardworker with a passion for learning and a drive to succeed. I have always put my all into everything I have done, and I do my best to learn all that I can so I can
-excel and improve in my roles.
-<br>On top of learning everything, I pick up on traits and skills fairly quickly, much more so than other coworkers, often completing my training days, if not a week or so, earlier than others, and still excelling in my roles.
+Currently, I am completing my Bachelors in Artificial Intelligence, graduating in April 2022, and all while parenting, working, and developing my own Artificial Intelligence. 
+I have been described as a hardworker with a passion for learning and a drive to succeed. I have always put my all into everything I have done, and I do my best to learn all that I can so I can excel and improve in my roles. On top of learning everything, I pick up on traits and skills fairly quickly, much more so than other coworkers, often completing my training days, if not a week or so, earlier than others, and still excelling in my roles.
 
 ### Reasoning For Artificial Intelligence
 
