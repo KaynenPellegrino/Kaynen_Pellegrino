@@ -57,6 +57,6 @@ you read this very bland set of coding.-->
 
 ## Contact
 If you are interested in reaching me for professional purposes or personal projects, as well as inquiries on my projects or other inquiries, you can reach me at:
-<br>Email: KaynenBPellegrino@gmail.com
-<br>https://www.linkedin.com/in/KaynenPellegrino
+<br>Email: <a href="mailto:kaynenbbpellegrino@gmail.com?subject=Inquiry for Employment">KaynenBPellegrino@gmail.com
+<br><a href="https://www.linkedin.com/in/KaynenPellegrino">https://www.linkedin.com/in/KaynenPellegrino
 <!-- Thank you again, I am very grateful to you. Now my only question left is, when do I start?-->
