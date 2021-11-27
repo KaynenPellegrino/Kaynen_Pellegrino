@@ -1,4 +1,3 @@
-# Kaynen Pellegrino
 <!-- If you're reading this, obviously you're looking at the source code to see if I wrote this out in HTML. 
 Well, I did originally, but why not use a simpler format where I can? However, if you look at the My Complete 
 Projects tab, you will be able to see my mock website, entirely in HTML. Thank you for reading! -->
