@@ -15,7 +15,7 @@ On top of learning everything, I pick up on traits and skills fairly quickly, mu
 
 ### Reasoning For Artificial Intelligence
 
-Since a young age, Artificial Intelligence was my Pandora's Box. I knew all of the horror stories, and all of the potential outcomes, but I didn't care. I wanted to tame the beast to be the one who developed true sentience, and was able to show that it wasn't an evil or impossible task. I knew from a young age that Artifical Intelligence was the future, and that the only way we would ever truly expand beyond this star was with it's assistance. So, I made my plans and acted.
+Since a young age, Artificial Intelligence was my Pandora's Box. I knew all of the horror stories, and all of the potential outcomes, but I didn't care. I wanted to tame the beast, to be the one who developed true sentience and was able to show that it wasn't an evil or impossible task. I knew from a young age that Artifical Intelligence was the future, and that the only way we would ever truly expand beyond this star was with it's assistance. So, I made my plans and acted.
 <!-- But also, Skynet. We're talking about it, you're thinking about it, that's a win for me-->
 ### What Are My Goals?
 
