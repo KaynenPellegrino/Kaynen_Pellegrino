@@ -43,7 +43,7 @@ Thank you for looking at my works so far! Unfortunately, I am not able to put th
 <br><a href="https://github.com/KaynenPellegrino/Python-projects-From-School">Python Projects</a>
 <br><a href="https://github.com/KaynenPellegrino/Fans">FANS Robot</a>
 <br><a href="https://github.com/KaynenPellegrino/Mock-Photography-Website">Mock Website</a>
-<br>Finally, here is a downloadable copy of my<a href="Kaynen Pellegrino.docx" download> resume and my general <a href+"A Creative Coverletter in py.docx" download> cover letter.</a>
+<br>Finally, here is a downloadable copy of my<a href="Kaynen Pellegrino.docx" download> resume and my general <a href="A Creative Coverletter in py.docx" download> cover letter.</a>
 
 ### Works In Progress
 These are personal projects I am working on currently, any code shown are samples, and are the intellectual property of Kaynen Pellegrino and Sybertnetics.
