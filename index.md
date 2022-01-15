@@ -37,14 +37,14 @@ I can offer a strong candidate with a great work ethic whom is capable of mainta
 Thank you for looking at my works so far! Unfortunately, I am not able to put the code directly here. 
 <br>However, if you can follow this link to my <a href="https://www.github.com/kaynenpellegrino">Github</a>, you can see it all there!
 <br>Otherwise, here are direct links to the following projects I completed through school or personally.
-<ol>
+<ul>
   <br><li><a href="https://github.com/KaynenPellegrino/FarkleGame">Farkle</a></li>
 <br><li><a href="https://github.com/KaynenPellegrino/Gracioso-Rescue-Pet">Pet Rescue</a></li>
 <br><li><a href="https://github.com/KaynenPellegrino/Luxury-Cruise-Line">Cruise Line</a></li>
 <br><li><a href="https://github.com/KaynenPellegrino/Python-projects-From-School">Python Projects</a></li>
 <br><li><a href="https://github.com/KaynenPellegrino/Fans">FANS Robot</a></li>
 <br><li><a href="https://github.com/KaynenPellegrino/Mock-Photography-Website">Mock Website</a></li>
-</ol>
+</ul>
 <br>Another resource I have available is <a href="https://codepen.io/kaynenpellegrino"> codepen</a> where I have projects I completed through my coding bootcamp.
 <br>Finally, here is a downloadable copy of my<a href="Kaynen Pellegrino.pdf" download> resume</a> and my general <a href="A Creative Coverletter in py.docx" download> cover letter.</a>
 
