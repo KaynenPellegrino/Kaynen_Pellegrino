@@ -9,7 +9,7 @@ Projects tab, you will be able to see my mock website, entirely in HTML. Thank y
 
 I am a single father, an avid adventurer, an entrepeneur, and an innovative spirit. 
 I conceptualize my own inventions, all of which are some form of next generation technology.
-Currently, I am completing my Bachelors in Artificial Intelligence, graduating in April 2022, and all while parenting, working, and developing my own Artificial Intelligence. 
+I am an Artificial Intelligence and Machine Learning graduate from Southern New Hampshire University, working with General Motors, and on the road to developing my own Artificial Intelligence. 
 I have been described as a hardworker with a passion for learning and a drive to succeed. I have always put my all into everything I have done, and I do my best to learn all that I can so I can excel and improve in my roles. 
 On top of learning everything, I pick up on traits and skills fairly quickly, much more so than other coworkers, often completing my training days, if not a week or so, earlier than others, and still excelling in my roles.
 
@@ -23,7 +23,7 @@ In the next 3 months, I hope to acquire a great job with a strong company that I
 <br>In the next 12 months, I hope to have shown enough initiative and growth to be offered additional responsibilites and roles in the formerly mentioned company.
 <br>In the next 5 years, I hope to become well versed in a full stack and have developed at least two to three of my innovations and designs.
 <br>My longest term goal is that I want to one day run my own Research and Development company, leading a team that will be  developing next gen technology.
-<!-- If I could one day own my own company and create a multiple trillion dollar conglomerate focused on interstellar expansion and next generation
+<!-- If I could one day own my own company and create a multi-trillion dollar conglomerate focused on interstellar expansion and next generation
 development utilizing some of the many crazy, innovational, slightly delusional ideas that I have, I would be happy with that too though. Just a thought. -->
 
 ### What Can I Do For You?
