@@ -45,8 +45,7 @@ Thank you for looking at my works so far! Unfortunately, I am not able to put th
 <br><li><a href="https://github.com/KaynenPellegrino/Fans">FANS Robot</a></li>
 <br><li><a href="https://github.com/KaynenPellegrino/Mock-Photography-Website">Mock Website</a></li>
 </ul>
-<br>Another resource I have available is <a href="https://codepen.io/kaynenpellegrino"> codepen</a> where I have projects I completed through my coding bootcamp.
-<br>Finally, here is a downloadable copy of my<a href="Kaynen Pellegrino.pdf" download> resume</a> and my general <a href="A Creative Coverletter in py.docx" download> cover letter.</a>
+
 
 ### Works In Progress
 These are personal projects I am working on currently, any code shown are samples, and are the intellectual property of Kaynen Pellegrino and Sybertnetics.
